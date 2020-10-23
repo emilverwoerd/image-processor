@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageRegistration", "ImageRegistration\ImageRegistration.csproj", "{05A007F6-A0C8-4098-AF96-37A66C25ABD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageNotification", "ImageNotification\ImageNotification.csproj", "{AB72EB31-3B83-43CE-8567-D3C37F84C92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A007F6-A0C8-4098-AF96-37A66C25ABD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A007F6-A0C8-4098-AF96-37A66C25ABD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A007F6-A0C8-4098-AF96-37A66C25ABD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A007F6-A0C8-4098-AF96-37A66C25ABD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB72EB31-3B83-43CE-8567-D3C37F84C92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB72EB31-3B83-43CE-8567-D3C37F84C92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB72EB31-3B83-43CE-8567-D3C37F84C92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB72EB31-3B83-43CE-8567-D3C37F84C92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D6B12A-3EB9-4B9E-98F5-A75290F8A99B}
+	EndGlobalSection
+EndGlobal
